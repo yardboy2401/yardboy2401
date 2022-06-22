@@ -1,4 +1,4 @@
-## Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
+## :---: Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
 
 <br/>
 
@@ -20,6 +20,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
+<br>
 
 **Talking about Personal Stuffs:**
 
