@@ -1,8 +1,8 @@
 ## Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
+- - - -
 
 <br/>
 
-- - - -
 
 <a href="https://www.linkedin.com/in/jeff-wymore-jw78/">
 <img align="left" alt="Jeff Wymore" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -14,8 +14,6 @@
 <img align="left" alt="Jeff Wymore" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <br />
-
-- - - -
 
 <br />
 
