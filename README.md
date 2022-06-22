@@ -30,16 +30,8 @@ Hi,I'm Jeff Wymore🙌, a Web Developer, Content Creator and Coding Enthusiast. 
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - 📝[Portfolio](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
 
 
-
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
 
 **Languages and Tools:**
 
