@@ -1,5 +1,7 @@
-## :---: Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
-
+<p align="center">
+  ## Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
+</p>
+  
 <br/>
 
 <a href="https://www.linkedin.com/in/jeff-wymore-jw78/">
