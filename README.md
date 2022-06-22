@@ -6,7 +6,7 @@
 <img align="left" alt="Jeff Wymore" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="tel:14257729869">
-<img align="left" alt="Jeff Wymore" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/phone.svg" />
+<img align="left" alt="Jeff Wymore" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telephone.svg" />
 </a>
 <a href="mailto:jeffwymore78@gmail.com?subject=Contact JW">
 <img align="left" alt="Jeff Wymore" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
