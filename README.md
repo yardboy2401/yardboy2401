@@ -1,4 +1,4 @@
-<style="center">## Hello 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)</style>
+## Hello 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
   
 <br/>
 
