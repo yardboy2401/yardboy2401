@@ -24,7 +24,7 @@ Hi,I'm Jeff Wymore🙌, a Web Developer, Content Creator and Coding Enthusiast. 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
+- 🔭 I recently completed a Full Stack bootcamp with U of Washington.
 - 🌱 I’m currently learning React and Python.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
