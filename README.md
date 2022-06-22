@@ -2,7 +2,6 @@
 
 <br/>
 
-
 <a href="https://www.linkedin.com/in/jeff-wymore-jw78/">
 <img align="left" alt="Jeff Wymore" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -12,9 +11,10 @@
 <a href="mailto:jeffwymore78@gmail.com?subject=Contact JW">
 <img align="left" alt="Jeff Wymore" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<br />
 
 <br />
+<br />
+
 #### Hi,I'm Jeff Wymore🙌, a Web Developer, Content Creator and Coding Enthusiast. Apart from that I love getting outside for Snowboarding, Hiking and Camping.❤✌
 
 
