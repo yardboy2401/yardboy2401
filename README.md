@@ -1,4 +1,4 @@
-### Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
+## Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
 
 <br/>
 
