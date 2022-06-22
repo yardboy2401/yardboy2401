@@ -15,7 +15,7 @@
 #### Hi,I'm Jeff Wymore🙌, a Web Developer, Content Creator and Coding Enthusiast. Apart from that I love getting outside for Snowboarding, Hiking and Camping.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://giphy.com/gifs/internet-surfing-IwTWTsUzmIicM" />
 
 <br>
 
