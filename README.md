@@ -1,6 +1,4 @@
-<h2 align="center">
-Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
-</h2>
+<h2 align="center">Hello World 👋 It's [Jeff!](https://yardboy2401.github.io/portfolio-reactjs-wymore/)</h2>
   
 <br/>
 
