@@ -29,7 +29,7 @@ Hi,I'm Jeff Wymore🙌, a Web Developer, Content Creator and Coding Enthusiast. 
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- 📝[Portfolio](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
+- 📝[My Portfolio](https://yardboy2401.github.io/portfolio-reactjs-wymore/)
 
 
 
