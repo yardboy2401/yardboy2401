@@ -22,7 +22,7 @@
 **Talking about Personal Stuffs:**
 
 - 🔭 I recently completed a Full Stack bootcamp with U of Washington.
-- 🌱 I’m currently learning React and Python.
+- 🌱 I’m currently learning React, Angular, and Python.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
